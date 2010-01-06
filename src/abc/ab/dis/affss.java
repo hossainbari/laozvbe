@@ -2,7 +2,10 @@ package abc.ab.dis;
 /*
  * 소스 예제
  */
-
+/***/
+/*test/
+ * 
+ */
 import android.app.Activity;
 import android.os.Bundle;
 
